@@ -1,0 +1,7 @@
+[
+  {
+    "repository" : "android_vendor_xiaomi_dipper-common",
+    "target_path": "vendor/xiaomi/sdm845-common",
+    "branch": "dot11"
+  }
+]
